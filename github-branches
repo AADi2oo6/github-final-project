@@ -1,0 +1,4 @@
+git branch -v
+  bug-fix-revert 041c8a4 Fix simple interest formula typo
+  bug-fix-typo   041c8a4 Fix simple interest formula typo
+* main           041c8a4 Fix simple interest formula typo
